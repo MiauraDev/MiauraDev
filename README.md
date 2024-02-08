@@ -27,6 +27,8 @@
 <a href="mailto:lauraluque1215@gmail.com" target="blank"><img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/FFFFFF/email-sign.png" alt="email-sign"/></a>
 </p>
 
+##
+
 <h3 align="left">Lenguajes y herramientas que uso:</h3>
 <h5>Mobile development</h5>
 <p align="left"> 
