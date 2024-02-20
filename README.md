@@ -24,30 +24,21 @@
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://wa.link/em86f3" target="blank"><img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/FFFFFF/whatsapp.png" alt="whatsapp"/></a>
-<a href="https://www.linkedin.com/in/laura-luque1215/" target="blank"><img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/FFFFFF/linkedin.png" alt="linkedin"/></a>
-<a href="mailto:lauraluque1215@gmail.com" target="blank"><img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/FFFFFF/email-sign.png" alt="email-sign"/></a>
+<a href="https://www.linkedin.com/in/laura-luque1215/" target="blank"><img width="50" height="50" src="https://img.icons8.com/ios/50/FFFFFF/linkedin.png" alt="linkedin"/></a>
+<img width="50" height="50" src="https://img.icons8.com/ios/50/FFFFFF/message-squared.png" alt="message-squared"/></a>
 </p>
 
 ##
 
 <h3 align="left">Lenguajes y herramientas que uso:</h3>
 <h5>Mobile development</h5>
-<p align="left" style="text-decoration: none;" > 
-<a  href="https://es.wikipedia.org/wiki/Xamarin" style="text-decoration: none;" > <img src="https://i.imgur.com/ja9kTzS.png" alt="bootstrap" width="45" height="40"/> </a>  
-<a href="https://es.wikipedia.org/wiki/Android_Studio" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img width="45" height="40" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Android-logos-and-brands-those-icons-flat-those-icons.png" alt="external-Android-logos-and-brands-those-icons-flat-those-icons"/> </a> 
-</p>
+<img src="https://skillicons.dev/icons?i=androidstudio,visualstudio&theme=light" />
   
 <h5>Web development</h5>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img width="45" height="40"src="https://img.icons8.com/color-glass/96/bootstrap.png" alt="bootstrap"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="45"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"  > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="40" /> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/color/96/postgreesql.png" alt="postgreesql"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="40"/> </a> <a href="https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n" target="_blank" rel="noreferrer"> <img  width="45" height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> </a>  
-<a href="https://es.wikipedia.org/wiki/WordPress" target="_blank" rel="noreferrer"> <img width="45" height="40" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/> </a>
-<a href="https://en.wikipedia.org/wiki/Oracle_Database" target="_blank" rel="noreferrer"> <img width="38" height="38" src="https://img.icons8.com/stencil/64/data-backup.png" alt="data-backup"/> </a> </p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,wordpress,php,vscode,c,cpp,python,java,mysql,eclipse&theme=light&perline=7" />
 
 <h5>Design</h5>
-<p align="left"> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/> </a>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/color/96/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img width="44" height="44" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> </a><a href="https://es.wikipedia.org/wiki/Canva" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/> </a> </p>
-
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,svg&theme=light" />
 
 ##
 
