@@ -24,8 +24,8 @@
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/laura-luque1215/" target="blank"><img width="50" height="50" src="https://img.icons8.com/ios/50/FFFFFF/linkedin.png" alt="linkedin"/></a>
-<img width="50" height="50" src="https://img.icons8.com/ios/50/FFFFFF/message-squared.png" alt="message-squared"/></a>
+<a href="https://www.linkedin.com/in/laura-luque1215/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
+<img src="https://skillicons.dev/icons?i=gmail&theme=light"/></a>
 </p>
 
 ##
