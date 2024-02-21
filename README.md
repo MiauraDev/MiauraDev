@@ -14,9 +14,9 @@
 
 ## Sobre mi
 
-- 📲 Mobile developer
 - 🎥 Web developer
 - ✏️ Designer
+- 📲 Mobile developer
 - ⭐ Actualmente estoy aprendiendo React, DDBB, Git , etc. ⭐ 
 <br>
 
@@ -24,21 +24,30 @@
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/laura-luque1215/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"/></a>
-<img src="https://skillicons.dev/icons?i=gmail&theme=light"/></a>
+<a href="https://wa.link/em86f3" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:lauraluque1215@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/laura-luque1215/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ##
 
 <h3 align="left">Lenguajes y herramientas que uso:</h3>
-<h5>Mobile development</h5>
-<img src="https://skillicons.dev/icons?i=androidstudio,visualstudio&theme=light" />
+
   
 <h5>Web development</h5>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,wordpress,php,vscode,c,cpp,python,java,mysql,eclipse&theme=light&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,php,javascript,python,java,mysql&theme=light&perline=5" />
 
 <h5>Design</h5>
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,svg&theme=light" />
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma&theme=light" />
+
+<h5>Mobile development</h5>
+<p>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
+</p>
+
+<h5>Tools</h5>
+<img src="https://skillicons.dev/icons?i=notion,git,eclipse,androidstudio,visualstudio,vscode&theme=light" />
 
 ##
 
