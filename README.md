@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6666&background=BC28FF00&center=true&random=false&width=435&lines=Hola%2C+soy+MiauraDev5+%F0%9F%91%8B;Dise%C3%B1adora+Web++%F0%9F%96%A5%EF%B8%8F%F0%9F%96%8C%EF%B8%8F;Desarrolladora+Web++%F0%9F%92%BB;Dise%C3%B1adora+Multimedia+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF6666&background=BC28FF00&center=true&random=false&width=435&lines=Hola%2C+soy+MiauraDev+%F0%9F%91%8B;Dise%C3%B1adora+Web++%F0%9F%96%A5%EF%B8%8F%F0%9F%96%8C%EF%B8%8F;Desarrolladora+Web++%F0%9F%92%BB;Dise%C3%B1adora+Multimedia+" alt="Typing SVG" /></a>
 </h1>
 </div>
 <img src="https://i.imgur.com/2GtdIOr.png">
