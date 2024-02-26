@@ -5,7 +5,7 @@
 </div>
 <img src="https://i.imgur.com/2GtdIOr.png">
 
-<h3 align="center">Frontend Developer from Peru</h3>
+<h3 align="center">Web Developer from Peru</h3>
 
 
 
