@@ -35,7 +35,7 @@
 
   
 <h5>Web development</h5>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,php,javascript,python,java,mysql&theme=light&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,php,javascript,python,java,mysql,react&theme=light&perline=5" />
 
 <h5>Design</h5>
 <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma&theme=light" />
