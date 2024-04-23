@@ -47,7 +47,7 @@
 </p>
 
 <h5>Tools</h5>
-<img src="https://skillicons.dev/icons?i=notion,git,eclipse,androidstudio,visualstudio,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=notion,git,eclipse,androidstudio,visualstudio,vscode,vite&theme=light" />
 
 ##
 
