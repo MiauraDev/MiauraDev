@@ -55,79 +55,57 @@
 
 
 ## Mis Proyectos
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">sdasdasdasdasd</h3>
-<div align="center">
-<a href="link video" target="_blank"><img src="imagen" width="400" alt="Titulo"></a>
-<p>
-<a href="Link github" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&color=ffffff&logo=github&logoColor=black" >
-</a>
-<a href="link youtube" target="_blank" >
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ffffff">
-</a>
-</p>
-<p>sfasdasdasdasdasdas.</p>
-</div>
-                                                                                      
-</td>
+<table style="width:100%;">
+  <tr>
+    <td style="width:33.33%; text-align:center;">
+      <h3>sdasdasdasdasd</h3>
+      <div>
+        <a href="link video" target="_blank"><img src="imagen" width="400" alt="Titulo"></a>
+        <p>
+          <a href="Link github" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&color=ffffff&logo=github&logoColor=black" >
+          </a>
+          <a href="link youtube" target="_blank" >
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ffffff">
+          </a>
+        </p>
+        <p>sfasdasdasdasdasdas.</p>
+      </div>
+    </td>
 
-<td width="50%">
-               <br>
-<h3 align="center">sdasdasdasdasd</h3>
-<div align="center">
-<a href="link video" target="_blank"><img src="imagen" width="400" alt="Titulo"></a>
-<p>
-<a href="Link github" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&color=ffffff&logo=github&logoColor=black" >
-</a>
-<a href="link youtube" target="_blank" >
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ffffff">
-</a>
-</p>
-<p>sfasdasdasdasdasdas.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+  <td style="width:33.33%; text-align:center;">
+      <h3>sdasdasdasdasd</h3>
+      <div>
+        <a href="link video" target="_blank"><img src="imagen" width="400" alt="Titulo"></a>
+        <p>
+          <a href="Link github" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&color=ffffff&logo=github&logoColor=black" >
+          </a>
+          <a href="link youtube" target="_blank" >
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ffffff">
+          </a>
+        </p>
+        <p>sfasdasdasdasdasdas.</p>
+      </div>
+    </td>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">sdasdasdasdasd</h3>
-<div align="center">
-<a href="link video" target="_blank"><img src="imagen" width="400" alt="Titulo"></a>
-<p>
-<a href="Link github" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&color=ffffff&logo=github&logoColor=black" >
-</a>
-<a href="link youtube" target="_blank" >
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ffffff">
-</a>
-</p>
-<p>sfasdasdasdasdasdas.</p>
-</div>
-                                                                                      
-</td>       
-
-<td width="50%">
-<h3 align="center">sdasdasdasdasd</h3>
-<div align="center">
-<a href="link video" target="_blank"><img src="imagen" width="400" alt="Titulo"></a>
-<p>
-<a href="Link github" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&color=ffffff&logo=github&logoColor=black" >
-</a>
-<a href="link youtube" target="_blank" >
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ffffff">
-</a>
-</p>
-<p>sfasdasdasdasdasdas.</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
+ <td style="width:33.33%; text-align:center;">
+      <h3>sdasdasdasdasd</h3>
+      <div>
+        <a href="link video" target="_blank"><img src="imagen" width="400" alt="Titulo"></a>
+        <p>
+          <a href="Link github" target="_blank">
+            <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&color=ffffff&logo=github&logoColor=black" >
+          </a>
+          <a href="link youtube" target="_blank" >
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ffffff">
+          </a>
+        </p>
+        <p>sfasdasdasdasdasdas.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+                                                                               
 </div>
 <br>
