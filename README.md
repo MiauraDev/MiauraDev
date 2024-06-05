@@ -19,7 +19,6 @@
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
-<a href="https://wa.link/em86f3" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:lauraluque1215@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/laura-luque1215/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
@@ -30,7 +29,7 @@
 
   
 <h5>Web development</h5>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress,php,javascript,python,java,mysql,react&theme=light&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,wordpress,php,javascript,python,java,mysql,react&theme=light&perline=5" />
 
 <h5>Design</h5>
 <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma&theme=light" />
