@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-<img src="https://skillicons.dev/icons?i=wordpress,html,css,javascript,php,python,java,react&theme=light&perline=4" />
+<img src="https://skillicons.dev/icons?i=wordpress,html,css,javascript,typescript,php,python,java,react, bootstrap&theme=light&perline=5" />
 
 
 <h5>Design</h5>
