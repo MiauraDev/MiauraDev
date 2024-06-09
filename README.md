@@ -29,10 +29,19 @@
 
   
 <h5>Web development</h5>
-<img src="https://skillicons.dev/icons?i=html,css,wordpress,php,javascript,python,java,mysql,react&theme=light&perline=5" />
+<p align="start">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+<img src="https://skillicons.dev/icons?i=wordpress,html,css,javascript,php,python,java,react&theme=light&perline=4" />
+
 
 <h5>Design</h5>
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma&theme=light" />
+<p align="start">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator&theme=light" />
 
 <h5>Mobile development</h5>
 <p>
