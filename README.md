@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/EO1Q0cB.png">
+<img src="https://i.imgur.com/AjjWBe2.png">
 
 <h3 align="center">Web Developer from Peru</h3>
 
