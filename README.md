@@ -22,7 +22,6 @@
   <a href="mailto:lauraluque1215@hotmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-ef6672?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/lauraluquedev/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-ef6672?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
