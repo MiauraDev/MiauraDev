@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://i.imgur.com/AjjWBe2.png">
+  <img src="https://i.imgur.com/ZN5K3by.png">
 </p>
 
 <h3 align="center">Web Developer from Peru</h3>
 
 ##
 
-<h3 align="center">SOBRE MI</h3>
+<h3 align="center">ABOUT ME</h3>
 
 ## 
 
@@ -27,7 +27,7 @@
 
 ##
 
-<h3 align="center">LENGUAJES Y HERRAMIENTAS</h3>
+<h3 align="center">LANGUAGES AND TOOLS</h3>
 
 ##
 
@@ -74,9 +74,4 @@
 
 ##
 
-<div align="center">
-<a  href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MiauraDev&label=Profile%20Views&color=12&icon=7&pretty=true" />
-</a>
-  </div>
 <br><br>
