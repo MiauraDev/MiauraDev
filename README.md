@@ -14,7 +14,6 @@
 💻 Web developer💻 <br>
 🎨 Designer 🎨 <br>
 📱 Mobile developer 📱 <br>
-⭐ Actualmente estoy aprendiendo React, DDBB, Git, etc. ⭐ <br>
 </div>
 <br>
 
@@ -23,7 +22,7 @@
     <img src="https://img.shields.io/badge/Gmail-ed91a2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<br>
+
 
 ##
 
@@ -72,6 +71,22 @@
   </p>
 </p>
 
+
 ##
 
-<br><br>
+<h3 align="center">GITHUB TROPHIES</h3>
+
+## 
+
+<br>
+
+<p align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=MiauraDev&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
+  
+</p>
+
+
+## 
+
+<br>
