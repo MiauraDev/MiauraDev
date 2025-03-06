@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/ZN5K3by.png">
+  <img src="https://i.imgur.com/FJloijw.png">
 </p>
 
 <h3 align="center">Web Developer from Peru</h3>
