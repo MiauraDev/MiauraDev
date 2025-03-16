@@ -52,7 +52,8 @@
 
   <h5 align="center">DESIGN</h5>
   <p align="center">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+    <img src="https://img.shields.io/badge/Canva-04bbcd.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+     <img src="https://img.shields.io/badge/Krita-fc52e9.svg?style=for-the-badge&logo=Krita&logoColor=white" />
   </p>
 
   <p align="center">
@@ -62,12 +63,11 @@
   <h5 align="center">MOBILE DEVELOPMENT</h5>
   <p align="center">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
   </p>
 
   <h5 align="center">TOOLS</h5>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=notion,git,eclipse,androidstudio,visualstudio,vscode,npm,vite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=notion,git,eclipse,androidstudio,vscode,npm,vite&theme=dark" />
   </p>
 </p>
 
