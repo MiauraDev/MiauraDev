@@ -4,23 +4,12 @@
 
 <h3 align="center">Web Developer from Peru</h3>
 
-##
-
-<h3 align="center">ABOUT ME</h3>
-
-## 
-
-<div align ="center">
-💻 Web developer💻 <br>
-🎨 Designer 🎨 <br>
-📱 Mobile developer 📱 <br>
-</div>
-<br>
-
 <p align="center">
-  <a href="mailto:lauraluque1215@hotmail.com" target="blank">
+  
+  <a href="mailto:lauraluque.lmla@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-ed91a2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
 </p>
 
 
